@@ -10,14 +10,14 @@ html{
 }
 
 body{
-    background:rgb(0, 42, 255);
+    background:rgb(0, 152, 15);
     color:#333;
 }
 
 /* Navbar */
 
 header{
-    background:#ff0000;
+    background:#111;
     position:fixed;
     width:100%;
     z-index:1000;
